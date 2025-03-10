@@ -175,14 +175,3 @@ This project is licensed under the **MIT License**.
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/r-siva-subramanaiam/)  
 
 ---
-```
-
-### ✅ **Why This README is Effective?**
-✔ **Clear structure** with a **Table of Contents**  
-✔ **Step-by-step Installation & Usage Guide**  
-✔ **Technical Details** (ML Model, Logging, MongoDB)  
-✔ **API Endpoints Table** (if needed)  
-✔ **Screenshots for better clarity**  
-✔ **Licensing & Author Information**  
-
-Now, you can **copy-paste this into your `README.md`** and update **your name & links** accordingly! 🚀
