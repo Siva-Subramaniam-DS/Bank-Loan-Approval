@@ -64,3 +64,20 @@ This will launch the web interface where users can enter their financial details
 ---
 **🚀 Built for fast and accurate loan predictions!**
 
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author  
+- **Your Name** - Siva Subramaniam R 
+- GitHub: [@yourusername](https://github.com/Siva-Subramaniam-DS)  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/r-siva-subramanaiam/)  
+
+---
+
