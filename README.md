@@ -76,8 +76,8 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author  
 - **Your Name** - Siva Subramaniam R 
-- GitHub: [@yourusername](https://github.com/Siva-Subramaniam-DS)  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/r-siva-subramanaiam/)  
+- GitHub: [Siva-Subramaniam-DS](https://github.com/Siva-Subramaniam-DS)  
+- LinkedIn: [Siva Subramanaiam](https://www.linkedin.com/in/r-siva-subramanaiam/)  
 
 ---
 
