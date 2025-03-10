@@ -1,5 +1,4 @@
 # 🏦 Loan Approval System
-```markdown
 
 ## 📌 Table of Contents
 1. [📖 Introduction](#-introduction)
@@ -60,7 +59,7 @@ Loan-Approval-System/
 │── README.md                   # Project documentation
 │── requirements.txt             # Required Python packages
 │── utils.py                     # Helper functions
-```
+
 
 ---
 
